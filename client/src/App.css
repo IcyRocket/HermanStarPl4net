@@ -1,0 +1,67 @@
+.arrow {
+  border: solid black;
+  border-width: 0 7px 7px 0;
+  display: inline-block;
+  padding: 7px;
+}
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+.login-items{
+  width: 100%;
+  min-height: 100vh;
+  display: grid;
+  grid-row-gap: 100px;
+  justify-content: center;
+  color: white;
+  align-items: center;
+  background: url('./pictures/kultbildet.png');
+}
+.login-button{
+  color: white;
+  font-size: 19px;
+  background-color: rgba(233, 11, 11);
+  width: 200px;
+  height: 25px;
+}
+.login-button:hover{
+  cursor:pointer;
+  color: black;
+  background-color: white;
+}
+.login-forms{
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 5%;
+  width: 500px;
+  height: 400px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  
+}
+.form-input{
+  height: 80px;
+}
+.body-home{
+  width: 100%;
+  min-height: 100vh;
+  display: grid;
+  grid-row-gap: 100px;
+  justify-content: center;
+  color: white;
+  align-items: center;
+  background: url('./pictures/kultbildet.png');
+}
+.chat-div{
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 5%;
+}
+.message-post{
+  display: grid;
+  grid-template-columns: auto;
+}
