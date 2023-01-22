@@ -4,6 +4,10 @@
 
 After installing the project use this command in the root folder to install all of the dependencies:
 Run this command if you have windows: 
-```npm install axios concurrently dotenv express express-session jsonwebtoken mongoose react-router-dom request & cd client & npm install cross-fetch react react-dom react-query react-router-dom react-scripts web-vitals @testing-library/jest-dom @testing-library/react @testing-library/user-event```
+```bash
+npm install axios concurrently dotenv express express-session jsonwebtoken mongoose react-router-dom request & cd client & npm install cross-fetch react react-dom react-query react-router-dom react-scripts web-vitals @testing-library/jest-dom @testing-library/react @testing-library/user-event
+```
 Run this command if you have linux, unix, mac os:
-```npm install axios concurrently dotenv express express-session jsonwebtoken mongoose react-router-dom request && cd client && npm install cross-fetch react react-dom react-query react-router-dom react-scripts web-vitals @testing-library/jest-dom @testing-library/react @testing-library/user-event```
+```bash
+npm install axios concurrently dotenv express express-session jsonwebtoken mongoose react-router-dom request && cd client && npm install cross-fetch react react-dom react-query react-router-dom react-scripts web-vitals @testing-library/jest-dom @testing-library/react @testing-library/user-event
+```
