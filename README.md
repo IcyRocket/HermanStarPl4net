@@ -11,5 +11,7 @@ Run this command if you have linux, unix, mac os:
 ```bash
 npm install axios concurrently dotenv express express-session jsonwebtoken mongoose react-router-dom request && cd client && npm install cross-fetch react react-dom react-query react-router-dom react-scripts web-vitals @testing-library/jest-dom @testing-library/react @testing-library/user-event
 ```
+
+## How to use the website
 This is my first encounter with React and making a full-stack application, therefore the quality isn't really good. 
 If you open two tabs on your webbrowser and log in with different users you will be able to chat local on your machine.
