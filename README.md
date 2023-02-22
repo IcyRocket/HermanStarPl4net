@@ -14,4 +14,5 @@ npm install axios concurrently dotenv express express-session jsonwebtoken mongo
 
 ## How to use the website
 This is my first encounter with React and making a full-stack application, therefore the quality isn't really good. 
-If you open two tabs on your webbrowser and log in with different users you will be able to chat local on your machine.
+If you open two tabs on your webbrowser and log in with different users you will be able to chat locally on your machine.
+Here are all the paths in my project: /Register, /home.
